@@ -10597,3 +10597,6 @@
 
 # [nacion.com]
 127.0.0.1 www.nacion.com
+
+# [youtube.com]
+127.0.0.1 youtube.com
